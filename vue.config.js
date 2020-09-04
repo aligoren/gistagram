@@ -1,4 +1,5 @@
 module.exports = {
+    publicPath: '/gistagram/',
     chainWebpack: config => {
         config
         .plugin('html')
